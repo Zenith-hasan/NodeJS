@@ -1,16 +1,14 @@
 {
-  "name": "nodejs",
+  "name": "expressjs",
   "version": "1.0.0",
-  "description": "��#\u0000 \u0000N\u0000o\u0000d\u0000e\u0000J\u0000S\u0000\r\u0000 \u0000",
+  "description": "Node.js is a **JavaScript runtime** built on **Chrome’s V8 engine** that allows you to run JavaScript outside the browser. It is widely used for **server-side development**, APIs, and real-time applications.",
   "main": "index.js",
-  "module": "commonJS",
   "scripts": {
-    "start": "node index.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.21.2",
-    "lodash": "^4.17.21"
+    "express": "^5.1.0"
   }
 }
